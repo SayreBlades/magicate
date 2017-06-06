@@ -1,0 +1,6 @@
+magic8:
+  build: .
+  environment:
+    - SLACK_API_TOKEN=${SLACK_API_TOKEN}
+
+
